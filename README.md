@@ -1,4 +1,4 @@
-# Kaggle Project
+# Machine Learning Project
 # Home Credit Risk
 
 ## Author
@@ -40,7 +40,7 @@
     -> aussi appelée " la poubelle"
     
 ### src
-    * Flavien
+    * Experimentation
         Où se trouve le code d'une expérimentation (nommé F_experimentation_i.py ), il contient de:
             1. Configuration: le prefix pour tous les fichiers liés par example "ensembling1_feature_engineering2"
             Note: essayer utiliser le nom du model, de la fonction feature engineering utilisés pour le prefix.
@@ -48,9 +48,6 @@
             3. Feature engineering: Feature engineering :)
             4. Modeling or Cross validation:
             5. Génération du fichier de submission.
-    * Tuan
-        Les fichier T_experimentation_i.py
-        Pareil, un répertoire sont crées pour chacun pour éviter le conflict en pushant code.
     * models:
         Implémentation des models 
     * feature_engineering:

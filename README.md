@@ -2,11 +2,10 @@
 # Home Credit Risk
 
 ## Author
-* Flavien GELINEAU
 * Van Tuan LE
 
 ## Introduction
-    https://www.kaggle.com/c/home-credit-default-risk
+    Machine Learning project
 
 ## Structure
 

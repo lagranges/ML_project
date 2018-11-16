@@ -1,5 +1,5 @@
 # Machine Learning Project
-# Home Credit Risk
+# Template for a ML Project
 
 ## Author
 * Van Tuan LE
